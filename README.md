@@ -2,9 +2,9 @@
 ## I am junior web developer 
 ![I am junior web developer ](https://pbs.twimg.com/profile_banners/1052475749641277440/1642278116/1500x500)
 
-I'm following the path of full-stack web development. Now i am prepare for make a simple front end site which will considered suitable for human use.
+Front-end web developer || Interested in HTML5, CSS3, Bootsrtap5, Tailwind, JavaScript, ES6, React, NodeJs, Expressjs, MongoDb || Enthusiastic about programming
 
-Skills: Basic Python/C++/C/Bootstrap / HTML / CSS
+Skills: HTML5, CSS3, Bootsrtap5, Tailwind, JavaScript, ES6, React, NodeJs, Expressjs, MongoDb
 
 - 🔭 I’m currently working on YouTube 
 - 🌱 I’m currently learning Way to full stack web development 
