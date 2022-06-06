@@ -6,7 +6,7 @@ Front-end web developer || Interested in HTML5, CSS3, Bootsrtap5, Tailwind, Java
 
 Skills: HTML5, CSS3, Bootsrtap5, Tailwind, JavaScript, ES6, React, NodeJs, Expressjs, MongoDb
 
-- 🔭 I’m currently working on YouTube 
+- 🔭 I'm now ready for the front-end web-development job
 - 🌱 I’m currently learning Way to full stack web development 
 - 👯 I’m looking to collaborate on GitHub  
 - 💬 Ask me about web development path 
