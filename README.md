@@ -1,10 +1,11 @@
 # Hi there 👋, This is A R Golam Morshed Bhuiyan
 ## I am a software developer at SaleForeCast 
+
 ![I am junior web developer ](https://i.ibb.co/hyk3047/1699821081168.jpg)
 
 Passionate Software Developer specializing in R/Shiny. Proficient in R/Shiny, HTML5, CSS3, Bootstrap 5, Tailwind, JavaScript (ES6), React. Familiar with Node.js, Express.js, and MongoDB. Enthusiastic about crafting innovative solutions through programming.
 
-- 🔭 I'm entry lavel software developer (R/Shiny)
+- 🔭 I'm entry level software developer (R/Shiny)
 - 👯 I’m looking to collaborate on GitHub  
 - 📫 How to reach me: Email- morshedgolam99@gmail.com 
 
