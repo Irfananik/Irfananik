@@ -1,8 +1,8 @@
-# Hi there 👋, This is Golam Morshed (Irfan Anik) 
-## I am junior web developer 
+# Hi there 👋, This is A R Golam Morshed Bhuiyan
+## I am a software developer at SaleForeCast 
 ![I am junior web developer ](https://pbs.twimg.com/profile_banners/1052475749641277440/1642278116/1500x500)
 
-Front-end web developer || Interested in HTML5, CSS3, Bootsrtap5, Tailwind, JavaScript, ES6, React, NodeJs, Expressjs, MongoDb || Enthusiastic about programming
+Passionate Software Developer specializing in R/Shiny. Proficient in R/Shiny, HTML5, CSS3, Bootstrap 5, Tailwind, JavaScript (ES6), React. Familiar with Node.js, Express.js, and MongoDB. Enthusiastic about crafting innovative solutions through programming.
 
 Skills: HTML5, CSS3, Bootsrtap5, Tailwind, JavaScript, ES6, React, NodeJs, Expressjs, MongoDb
 
