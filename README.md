@@ -30,8 +30,8 @@ Currently, I am pursuing my **Master's degree (MSc) in Web System Development** 
 ### 📈 GitHub Stats
 
 <p align="left">
-  <img src="Irfananik" alt="Morshed's GitHub Stats" height="160" />
-  <img src="Irfananik" alt="Top Languages" height="160" />
+  <img src="https://vercel.app" alt="Morshed's GitHub Stats" height="160" />
+  <img src="https://vercel.app" alt="Top Languages" height="160" />
 </p>
 
 ---
