@@ -37,7 +37,7 @@ Currently, I am pursuing my **Master's degree (MSc) in Web System Development** 
 ---
 
 ### 🤝 Connect with Me
-- 💼 **LinkedIn:** [://linkedin.com](https://://linkedin.com)
+- 💼 **LinkedIn:** [Bhuiyan's Profile](https://www.linkedin.com/in/argmbhuiyan/)
 - 📧 **Email:** [argmbhuiyanjp@gmail.com](mailto:argmbhuiyanjp@gmail.com)
 
 *“Bridging business vision with clean, maintainable code.”*
