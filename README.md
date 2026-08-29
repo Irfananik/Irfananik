@@ -1,30 +1,43 @@
-# Hi there 👋, This is A R Golam Morshed Bhuiyan
-## I am a software developer (R/Shiny) at SaleForeCast 
+# Hi there, I'm Morshed! 👋
 
-![I am junior web developer ](https://i.ibb.co/hyk3047/1699821081168.jpg)
+### Web Developer | Master's Candidate in Web Systems | Former Tech Founder
 
-Passionate Software Developer specializing in R/Shiny. Proficient in R/Shiny, HTML5, CSS3, Bootstrap 5, Tailwind, JavaScript (ES6), React. Familiar with Node.js, Express.js, and MongoDB. Enthusiastic about crafting innovative solutions through programming.
+I am a software engineer focused on building clean, reliable, and scalable web architectures. With a background that combines entrepreneurial leadership as a former startup founder and hands-on full-stack development experience, I look at software engineering through both a technical and product lens. 
 
-- 🔭 I'm entry level software developer (R/Shiny)
-- 👯 I’m looking to collaborate on GitHub  
-- 📫 How to reach me: Email- morshedgolam99@gmail.com
-- 🔭 Our company website link: (http://www.saleforecast.xyz/)
+Currently, I am pursuing my **Master's degree (MSc) in Web System Development** in Japan, specializing in modern platform design, distributed systems, and AI integration.
 
+---
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Irfananik)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Irfananik/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/profile.php?id=100009358971675)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/irfan_anik10/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/IrfanAnik3)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCs0ixQQi_Fgd5eMlhPAAI7A)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://irfananik.github.io/Bootstrap-project/)  
+### 🚀 What I'm Up To
+- 🔭 **Current Focus:** Researching the optimization of frontend-backend integration using React and Node.js alongside AI agents.
+- 🎓 **Education:** Master's Program at Kyoto College of Graduate Studies for Informatics (KCGI) — Expected Graduation: March 2027.
+- 💼 **Open To Work:** Actively seeking full-time or internship opportunities in Japan as a **Frontend, Backend, or Full-Stack Web Developer**.
 
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
+---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Irfananik)](https://github.com/ryo-ma/github-profile-trophy)
+### 🛠️ Technical Toolkit
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Irfananik)](https://github.com/anuraghazra/github-readme-stats)
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | `JavaScript` `Python` `HTML5` `CSS3` |
+| **Frontend Frameworks** | `React.js` |
+| **Backend & Platforms** | `Node.js` `Express.js` |
+| **Databases** | `MongoDB` `SQL` |
+| **Tools & Platforms** | `Git` `GitHub` `Firebase` `VS Code` `AI Tools / Agents` |
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Irfananik&show_icons=true&count_private=true)  
+---
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Irfananik)  
+### 📈 GitHub Stats
 
-![GitHub metrics](https://metrics.lecoq.io/Irfananik)  
+<p align="left">
+  <img src="https://vercel.app" alt="Morshed's GitHub Stats" height="160" />
+  <img src="https://vercel.app" alt="Top Languages" height="160" />
+</p>
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Irfananik)  
+---
 
-![Profile views](https://gpvc.arturio.dev/Irfananik)  
+### 🤝 Connect with Me
+- 💼 **LinkedIn:** [://linkedin.com](https://://linkedin.com)
+- 📧 **Email:** [argmbhuiyanjp@gmail.com](mailto:argmbhuiyanjp@gmail.com)
+
+*“Bridging business vision with clean, maintainable code.”*
