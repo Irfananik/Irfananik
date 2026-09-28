@@ -30,8 +30,8 @@ Currently, I am pursuing my **Master's degree (MSc) in Web System Development** 
 ### 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Irfananik&show_icons=true&theme=radical&cache_seconds=1800" alt="Bhuiyan's GitHub Stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Irfananik&layout=compact&theme=radical&cache_seconds=1800" alt="Top Languages" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Irfananik&theme=radical" alt="Bhuiyan's Streak Stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Irfananik&layout=compact&theme=radical" alt="Top Languages" height="160" />
 </p>
 
 ---
